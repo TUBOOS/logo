@@ -1,0 +1,25 @@
+{
+  "name": "CrazyRabbit",
+  "logoURI": "https://github.com/TUBOOS/logo/blob/main/BIGDOG.png",
+  "keywords": [
+      "CrazyRabbit",
+      "CrazyRabbit",
+      "CrazyRabbit"
+    ],
+    "timestamp": "2021-06-29T03:03:03.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xd80EfC01f8faEcb58385f41B37f4751f71AfA1Cd",
+      "name": "CrazyRabbit",
+      "symbol": "CrazyRabbit",
+      "decimals": 9,
+      "logoURI": "https://github.com/TUBOOS/logo/blob/main/BIGDOG.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
